@@ -4,4 +4,4 @@ This is the build repository for the [Kentico Cloud custom element voucher selec
 
 The three files are built via the build command in the before mentioned repository.
 
-**Do not change the name of this repo - if you do, you will need to change the link in Kentico Cloud in the Content Model called "Newsletter Component - Voucher Picker"**
+🚨**Do not change the name of this repo - if you do, you will need to change the link in Kentico Cloud in the Content Model called "Newsletter Component - Voucher Picker"**
